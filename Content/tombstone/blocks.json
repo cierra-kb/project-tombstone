@@ -1,0 +1,310 @@
+[
+    {
+        "idx": 1,
+        "texture": "square_01_001.png"
+    },
+    {
+        "idx": 2,
+        "texture": "square_02_001.png"
+    },
+    {
+        "idx": 3,
+        "texture": "square_03_001.png"
+    },
+    {
+        "idx": 4,
+        "texture": "square_04_001.png"
+    },
+    {
+        "idx": 5,
+        "texture": "square_05_001.png"
+    },
+    {
+        "idx": 6,
+        "texture": "square_06_001.png"
+    },
+    {
+        "idx": 7,
+        "texture": "square_07_001.png"
+    },
+    {
+        "idx": 9,
+        "texture": "pit_01_001.png"
+    },
+    {
+        "idx": 8,
+        "texture": "spike_01_001.png"
+    },
+    {
+        "idx": 39,
+        "texture": "spike_02_001.png"
+    },
+    {
+        "idx": 35,
+        "texture": "bump_01_001.png"
+    },
+    {
+        "idx": 36,
+        "texture": "ring_01_001.png"
+    },
+    {
+        "idx": 40,
+        "texture": "plank_01_001.png"
+    },
+    {
+        "idx": 41,
+        "texture": "chain_01_001.png"
+    },
+    {
+        "idx": 48,
+        "texture": "d_cloud_01_001.png"
+    },
+    {
+        "idx": 49,
+        "texture": "d_cloud_02_001.png"
+    },
+    {
+        "idx": 50,
+        "texture": "d_ball_01_001.png"
+    },
+    {
+        "idx": 51,
+        "texture": "d_ball_02_001.png"
+    },
+    {
+        "idx": 52,
+        "texture": "d_ball_03_001.png"
+    },
+    {
+        "idx": 53,
+        "texture": "d_ball_04_001.png"
+    },
+    {
+        "idx": 54,
+        "texture": "d_ball_05_001.png"
+    },
+    {
+        "idx": 60,
+        "texture": "d_ball_06_001.png"
+    },
+    {
+        "idx": 61,
+        "texture": "pit_04_001.png"
+    },
+    {
+        "idx": 62,
+        "texture": "square_b_01_001.png"
+    },
+    {
+        "idx": 63,
+        "texture": "square_b_02_001.png"
+    },
+    {
+        "idx": 64,
+        "texture": "square_b_03_001.png"
+    },
+    {
+        "idx": 65,
+        "texture": "square_b_04_001.png"
+    },
+    {
+        "idx": 66,
+        "texture": "square_b_05_001.png"
+    },
+    {
+        "idx": 68,
+        "texture": "square_b_06_001.png"
+    },
+    {
+        "idx": 67,
+        "texture": "gravbump_01_001.png"
+    },
+    {
+        "idx": 84,
+        "texture": "gravring_01_001.png"
+    },
+    {
+        "idx": 69,
+        "texture": "square_c_01_001.png"
+    },
+    {
+        "idx": 70,
+        "texture": "square_c_02_001.png"
+    },
+    {
+        "idx": 71,
+        "texture": "square_c_03_001.png"
+    },
+    {
+        "idx": 72,
+        "texture": "square_c_04_001.png"
+    },
+    {
+        "idx": 73,
+        "texture": "square_c_05_001.png"
+    },
+    {
+        "idx": 74,
+        "texture": "square_c_06_001.png"
+    },
+    {
+        "idx": 75,
+        "texture": "square_c_07_001.png"
+    },
+    {
+        "idx": 76,
+        "texture": "square_d_01_001.png"
+    },
+    {
+        "idx": 77,
+        "texture": "square_d_02_001.png"
+    },
+    {
+        "idx": 78,
+        "texture": "square_d_03_001.png"
+    },
+    {
+        "idx": 79,
+        "texture": "square_d_04_001.png"
+    },
+    {
+        "idx": 80,
+        "texture": "square_d_05_001.png"
+    },
+    {
+        "idx": 81,
+        "texture": "square_d_06_001.png"
+    },
+    {
+        "idx": 82,
+        "texture": "square_d_07_001.png"
+    },
+    {
+        "idx": 83,
+        "texture": "square_08_001.png"
+    },
+    {
+        "idx": 10,
+        "texture": "portal_01_front_001.png"
+    },
+    {
+        "idx": 11,
+        "texture": "portal_02_front_001.png"
+    },
+    {
+        "idx": 12,
+        "texture": "portal_03_front_001.png"
+    },
+    {
+        "idx": 13,
+        "texture": "portal_04_front_001.png"
+    },
+    {
+        "idx": 45,
+        "texture": "portal_05_front_001.png"
+    },
+    {
+        "idx": 46,
+        "texture": "portal_06_front_001.png"
+    },
+    {
+        "idx": 47,
+        "texture": "portal_07_front_001.png"
+    },
+    {
+        "idx": 29,
+        "texture": "edit_eTintBGBtn_001.png"
+    },
+    {
+        "idx": 30,
+        "texture": "edit_eTintGBtn_001.png"
+    },
+    {
+        "idx": 22,
+        "texture": "edit_eeNoneBtn_001.png"
+    },
+    {
+        "idx": 23,
+        "texture": "edit_eeFBBtn_001.png"
+    },
+    {
+        "idx": 24,
+        "texture": "edit_eeFTBtn_001.png"
+    },
+    {
+        "idx": 25,
+        "texture": "edit_eeFLBtn_001.png"
+    },
+    {
+        "idx": 26,
+        "texture": "edit_eeFRBtn_001.png"
+    },
+    {
+        "idx": 27,
+        "texture": "edit_eeSUBtn_001.png"
+    },
+    {
+        "idx": 28,
+        "texture": "edit_eeSDBtn_001.png"
+    },
+    {
+        "idx": 31,
+        "texture": "edit_eStartPosBtn_001.png"
+    },
+    {
+        "idx": 34,
+        "texture": "edit_eLevelEndBtn_001.png"
+    },
+    {
+        "idx": 42,
+        "texture": "edit_eBGEOn_001.png"
+    },
+    {
+        "idx": 43,
+        "texture": "edit_eBGEOff_001.png"
+    },
+    {
+        "idx": 32,
+        "texture": "edit_eGhostEBtn_001.png"
+    },
+    {
+        "idx": 33,
+        "texture": "edit_eGhostDBtn_001.png"
+    },
+    {
+        "idx": 55,
+        "texture": "edit_eeFABtn_001.png"
+    },
+    {
+        "idx": 56,
+        "texture": "edit_eeFALBtn_001.png"
+    },
+    {
+        "idx": 57,
+        "texture": "edit_eeFARBtn_001.png"
+    },
+    {
+        "idx": 58,
+        "texture": "edit_eeFRHBtn_001.png"
+    },
+    {
+        "idx": 59,
+        "texture": "edit_eeFRHInvBtn_001.png"
+    },
+    {
+        "idx": 18,
+        "texture": "d_spikes_01_001.png"
+    },
+    {
+        "idx": 19,
+        "texture": "d_spikes_02_001.png"
+    },
+    {
+        "idx": 20,
+        "texture": "d_spikes_03_001.png"
+    },
+    {
+        "idx": 21,
+        "texture": "d_spikes_04_001.png"
+    }
+]
